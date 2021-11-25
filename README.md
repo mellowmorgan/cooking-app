@@ -11,7 +11,7 @@ A website for converting measurements for cooking.
 
 ## Description
 
-A webpage displaying animals' profiles.
+A webpage for cooking measurements conversion.
  
 ## Setup/Installation Requirements
 * Clone this repository to your desktop
